@@ -38,7 +38,7 @@ Before training the model, an Exploratory Data Analysis was conducted to underst
 
 # 📈 Correlation Between Features
 
-![Correlation Matrix](Images/cheatmap to understand correlation.png)
+![Correlation Matrix](Images/cheatmap%20to%20understand%20correlation.png)
 
 ---
 
@@ -85,7 +85,7 @@ The model explains **over 91% of the variance** in the test data.
 
 # 📉 Actual vs Predicted Prices
 
-![Prediction Results](Images/Actual Price vs Predicted price.png)
+![Actual vs Predicted](Images/Actual%20Price%20vs%20Predicted%20price.png)
 
 ---
 

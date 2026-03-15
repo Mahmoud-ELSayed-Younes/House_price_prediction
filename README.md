@@ -120,18 +120,18 @@ The R² score is calculated as:
 
 ```bash
 git clone https://github.com/yourusername/boston-house-price-prediction.git
-
 cd boston-house-price-prediction
-
 pip install -r requirements.txt
+```
 
+---
 
 ## 👨‍💻 Author
 
 **Mahmoud El-Sayed**
 
-- GitHub: https://github.com/Mahmoud-ELSayed-Younes
-- www.linkedin.com/in/mahmoud-el-sayed-a3b545264
+- GitHub: https://github.com/Mahmoud-ELSayed-Younes  
+- LinkedIn: https://www.linkedin.com/in/mahmoud-el-sayed-a3b545264
 
 ---
 

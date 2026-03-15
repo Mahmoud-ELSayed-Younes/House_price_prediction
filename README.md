@@ -93,7 +93,7 @@ The model explains **over 91% of the variance** in the test data.
 
 The R² score is calculated as:
 
-R² = 1 - (SS_res / SS_tot)
+**R² = 1 − (SSres / SStot)**
 
 ---
 # 🛠 Tech Stack
@@ -125,3 +125,19 @@ cd boston-house-price-prediction
 
 pip install -r requirements.txt
 
+
+## 👨‍💻 Author
+
+**Mahmoud El-Sayed**
+
+- GitHub: https://github.com/Mahmoud-ELSayed-Younes
+- www.linkedin.com/in/mahmoud-el-sayed-a3b545264
+
+---
+
+## 📚 Reference
+
+This project implementation was inspired by the following tutorial.  
+I implemented the model, analysis, and visualization as part of my learning process.
+
+https://youtu.be/fw5rkjq4Tfo
